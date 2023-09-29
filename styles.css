@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+body{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.main{
+
+	width:100px;
+	height:100px;
+}
